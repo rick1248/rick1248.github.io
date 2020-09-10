@@ -17,7 +17,7 @@ h2 {
     color: rgb(81, 173, 161);
 }
 .Index-body {
-    background-image: url("/Afbeeldingen/City-with-Mountain.JPG");
+    background-image: url("/City-with-Mountain.JPG");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -28,13 +28,13 @@ h2 {
 }
 
 .FAQ-body {
-    background-image: url("/Afbeeldingen/Questionmark.jpg");
+    background-image: url("/Questionmark.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .Dashboard-body {
-    background-image: url("/Afbeeldingen/RGO.jpg");
+    background-image: url("/RGO.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     color: rgb(80, 80, 240);
